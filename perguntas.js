@@ -1,113 +1,113 @@
 export const perguntas = [
     {
-        enunciado: "Qual é a sua carne favorita para churrasco?",
+        enunciado: "1. Qual é a sua refeição favorita do dia?",
         alternativas: [
             {
-                texto: "A) Picanha",
+                texto: "A) Café da manhã",
                 afirmacao: [
-                    "Você é o churrasqueiro clássico, que ama o sabor intenso da carne e os acompanhamentos tradicionais. A grelha é seu reino, e você sabe como preparar um churrasco memorável!"
+                    " O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
                 ],
                 proxima: 1,
             },
             {
-                texto: "B) Costela",
+                texto: "B) Almoço",
                 afirmacao: [
-                    "Você tem um estilo prático e focado no sabor! Prefere carnes saborosas e acompanhamentos que combinam com simplicidade. O churrasco é sempre uma experiência divertida e descontraída com você."
+                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "Você prefere usar carvão ou gás?",
+        enunciado: "2. Qual tipo de cozinha você prefere?",
         alternativas: [
             {
-                texto: "A) Carvão, pelo sabor",
+                texto: "Brasileira (feijoada, churrasco)",
                 afirmacao: [
-                    "Você é o churrasqueiro clássico, que ama o sabor intenso da carne e os acompanhamentos tradicionais. A grelha é seu reino, e você sabe como preparar um churrasco memorável!",
+                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma.",
     
                 ],
                 proxima: 3,
             },
             {
-                texto: "B) Gás, pela praticidade",
+                texto: " Italiana (massas, pizzas)",
                 afirmacao: [
-                    "Você tem um estilo prático e focado no sabor! Prefere carnes saborosas e acompanhamentos que combinam com simplicidade. O churrasco é sempre uma experiência divertida e descontraída com você."
+                    "O Equilibrado. Você busca equilíbrio em tudo o que faz, e isso se reflete no seu gosto pela culinária. Gosta de refeições bem preparadas, com sabores harmônicos e de qualidade. Na vida, você é uma pessoa que busca estabilidade e harmonia, tanto no trabalho quanto nas relações."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Qual é o acompanhamento que não pode faltar?",
+        enunciado: "Quando você vai a um restaurante, você:",
         alternativas: [
             {
-                texto: "A) Farofa",
+                texto: "Sempre pede o mesmo prato",
                 afirmacao: [
-                    "Você é o churrasqueiro clássico, que ama o sabor intenso da carne e os acompanhamentos tradicionais. A grelha é seu reino, e você sabe como preparar um churrasco memorável!"
+                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
                 ],
                 proxima: 3,
             },
             {
-                texto: "B) Vinagrete",
+                texto: "Escolhe algo que viu nas redes sociais",
                 afirmacao: [
-                    "Você tem um estilo prático e focado no sabor! Prefere carnes saborosas e acompanhamentos que combinam com simplicidade. O churrasco é sempre uma experiência divertida e descontraída com você."
+                    " O Equilibrado. Você busca equilíbrio em tudo o que faz, e isso se reflete no seu gosto pela culinária. Gosta de refeições bem preparadas, com sabores harmônicos e de qualidade. Na vida, você é uma pessoa que busca estabilidade e harmonia, tanto no trabalho quanto nas relações."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Qual é sua marinada especial?",
+        enunciado: " Qual é sua sobremesa favorita?",
         alternativas: [
             {
-                texto: "A) Alho e limão",
+                texto: " Sorvete",
                 afirmacao: [
-                    "Você é o churrasqueiro clássico, que ama o sabor intenso da carne e os acompanhamentos tradicionais. A grelha é seu reino, e você sabe como preparar um churrasco memorável!"
+                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
                 ],
                 proxima: 5,
             },
             {
-                texto: "B) Cerveja e ervas",
+                texto: "Pudim",
                 afirmacao: [
-                    "Você tem um estilo prático e focado no sabor! Prefere carnes saborosas e acompanhamentos que combinam com simplicidade. O churrasco é sempre uma experiência divertida e descontraída com você."
+                    " O Intenso. Seus gostos são fortes e definidos, tanto na culinária quanto na vida. Você gosta de viver tudo com intensidade e paixão. Temperos marcantes e pratos ousados chamam sua atenção, assim como situações desafiadoras e emoções profundas."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Como você organiza a grelha?",
+        enunciado: "Qual tipo de cozinha você prefere?",
         alternativas: [
             {
-                texto: "A) Carnes grossas no calor direto",
+                texto: "Japonesa (sushi, sashimi)",
                 afirmacao: [
-                    "Você é o churrasqueiro clássico, que ama o sabor intenso da carne e os acompanhamentos tradicionais. A grelha é seu reino, e você sabe como preparar um churrasco memorável!"
+                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
                 ],
                 proxima: 7,
             },
             {
-                texto: "B) Finas no calor indireto",
+                texto: "Mexicana (tacos, nachos)",
                 afirmacao: [
-                    "Você tem um estilo prático e focado no sabor! Prefere carnes saborosas e acompanhamentos que combinam com simplicidade. O churrasco é sempre uma experiência divertida e descontraída com você."
+                    "O Intenso. Seus gostos são fortes e definidos, tanto na culinária quanto na vida. Você gosta de viver tudo com intensidade e paixão. Temperos marcantes e pratos ousados chamam sua atenção, assim como situações desafiadoras e emoções profundas.O que você achou desse formato? Quer ajustar algo no quiz?"
                 ],
                 proxima: 8,
             },
         ]
     },
     {
-        enunciado: "Qual bebida combina melhor com o churrasco?",
+        enunciado: "Como você gosta de temperar a comida?",
         alternativas: [
             {
-                texto: "A) Cerveja gelada",
+                texto: " Leve, com poucas ervas e sal",
                 afirmacao: [
-                    "Você é o churrasqueiro clássico, que ama o sabor intenso da carne e os acompanhamentos tradicionais. A grelha é seu reino, e você sabe como preparar um churrasco memorável!"
+                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
                 ],
             },
             {
-                texto: "B) Caipirinha",
+                texto: "Bem temperada, com bastante especiarias",
                 afirmacao: [
-                    "Você tem um estilo prático e focado no sabor! Prefere carnes saborosas e acompanhamentos que combinam com simplicidade. O churrasco é sempre uma experiência divertida e descontraída com você."
+                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
                 ],
             },
         ]
